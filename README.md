@@ -1,9 +1,4 @@
-# Council AI Governance Maturity Ladder
-A six-domain self-assessment of a council's AI governance maturity, with a live
-profile and an adoption roadmap. Single self-contained page; runs in the browser,
-stores nothing.
+# Council AI Governance Maturity Ladder (moved)
 
-## Deploy
-1. Create a repo named `AIGovernanceMaturityLadder`, add this `index.html` at the root.
-2. Settings → Pages → Source: `main` branch, `/root`, Save.
-3. Live at https://kimabercromby.github.io/AIGovernanceMaturityLadder/ (already linked from the tools page).
+This page now redirects to the current Maturity Ladder, which uses the seven domains of the AI Governance Playbook (§7.6):
+https://kimabercromby.github.io/AIGovernanceSuiteTools/maturity-ladder.html
